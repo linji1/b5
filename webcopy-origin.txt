@@ -1,0 +1,752 @@
+Uri: http://api.tongjiniao.com/c?_=613193407680258048
+File Name: C:\Downloaded Web Sites\b\c
+Content Type: text/plain
+
+Uri: http://b/
+File Name: C:\Downloaded Web Sites\b\index.htm
+Content Type: text/html
+
+Uri: http://b/18.html
+File Name: C:\Downloaded Web Sites\b\18.html
+Content Type: text/html
+
+Uri: http://b/261.html
+File Name: C:\Downloaded Web Sites\b\261.html
+Content Type: text/html
+
+Uri: http://b/33.html
+File Name: C:\Downloaded Web Sites\b\33.html
+Content Type: text/html
+
+Uri: http://b/354.html
+File Name: C:\Downloaded Web Sites\b\354.html
+Content Type: text/html
+
+Uri: http://b/425.html
+File Name: C:\Downloaded Web Sites\b\425.html
+Content Type: text/html
+
+Uri: http://b/467.html
+File Name: C:\Downloaded Web Sites\b\467.html
+Content Type: text/html
+
+Uri: http://b/470.html
+File Name: C:\Downloaded Web Sites\b\470.html
+Content Type: text/html
+
+Uri: http://b/480.html
+File Name: C:\Downloaded Web Sites\b\480.html
+Content Type: text/html
+
+Uri: http://b/483.html
+File Name: C:\Downloaded Web Sites\b\483.html
+Content Type: text/html
+
+Uri: http://b/487.html
+File Name: C:\Downloaded Web Sites\b\487.html
+Content Type: text/html
+
+Uri: http://b/544.html
+File Name: C:\Downloaded Web Sites\b\544.html
+Content Type: text/html
+
+Uri: http://b/599.html
+File Name: C:\Downloaded Web Sites\b\599.html
+Content Type: text/html
+
+Uri: http://b/652.html
+File Name: C:\Downloaded Web Sites\b\652.html
+Content Type: text/html
+
+Uri: http://b/812.html
+File Name: C:\Downloaded Web Sites\b\812.html
+Content Type: text/html
+
+Uri: http://b/813.html
+File Name: C:\Downloaded Web Sites\b\813.html
+Content Type: text/html
+
+Uri: http://b/814.html
+File Name: C:\Downloaded Web Sites\b\814.html
+Content Type: text/html
+
+Uri: http://b/815.html
+File Name: C:\Downloaded Web Sites\b\815.html
+Content Type: text/html
+
+Uri: http://b/86.html
+File Name: C:\Downloaded Web Sites\b\86.html
+Content Type: text/html
+
+Uri: http://b/92.html
+File Name: C:\Downloaded Web Sites\b\92.html
+Content Type: text/html
+
+Uri: http://b/archives.html
+File Name: C:\Downloaded Web Sites\b\archives.html
+Content Type: text/html
+
+Uri: http://b/assets/file/2020/02/b_011528_1738108294.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_011528_1738108294.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/02/b_191351_1589140672.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_191351_1589140672.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2020/02/b_235110_1907619924.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\b_235110_1907619924.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/02/head.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\02\head.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2007.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2007.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2008.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2008.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2009.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2009.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2010.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2010.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2011.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2011.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2012.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2012.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2014.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2014.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2015.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2015.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2016.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2016.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2018.6-1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2018.6-1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2020/07/biye/2020.6-3.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2020\07\biye\2020.6-3.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2021/04/2021042301.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2021\04\2021042301.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2022/05/2022052801.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2022\05\2022052801.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/毕业/海康县雷城第二小学/1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\毕业\海康县雷城第二小学\1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/毕业/雷州市第二中学/1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\毕业\雷州市第二中学\1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/毕业/雷州市职业高级中学/1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\毕业\雷州市职业高级中学\1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/01/毕业/韶关学院/1.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\01\毕业\韶关学院\1.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2023/04/2023040701.webp
+File Name: C:\Downloaded Web Sites\b\assets\file\2023\04\2023040701.webp
+Content Type: image/webp
+
+Uri: http://b/assets/file/2024/03/20240307124855.jpg
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240307124855.jpg
+Content Type: image/jpeg
+
+Uri: http://b/assets/file/2024/03/20240310.png
+File Name: C:\Downloaded Web Sites\b\assets\file\2024\03\20240310.png
+Content Type: image/png
+
+Uri: http://b/assets/js/activity-power-mode.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\activity-power-mode.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/ajax.js
+File Name: C:\Downloaded Web Sites\b\assets\js\ajax.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/fancybox/fancybox.min.css
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.min.css
+Content Type: text/css
+
+Uri: http://b/assets/js/fancybox/fancybox.umd.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\fancybox\fancybox.umd.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/highlightjs/dark.css
+File Name: C:\Downloaded Web Sites\b\assets\js\highlightjs\dark.css
+Content Type: text/css
+
+Uri: http://b/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\b\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/layer.js
+File Name: C:\Downloaded Web Sites\b\assets\js\layer.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/readmore.js
+File Name: C:\Downloaded Web Sites\b\assets\js\readmore.js
+Content Type: application/javascript
+
+Uri: http://b/assets/js/translate.js
+File Name: C:\Downloaded Web Sites\b\assets\js\translate.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\b\assets\qblog\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/images/iconfont.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/images/iconfont.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/images/iconfont.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/images/iconfont.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/images/up.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\images\up.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.eot?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/layui/font/iconfont.svg?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/layui/font/iconfont.ttf?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff2?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/layui/font/iconfont.woff?v=282
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\font\iconfont.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/layui/layui.js
+File Name: C:\Downloaded Web Sites\b\assets\qblog\layui\layui.js
+Content Type: application/javascript
+
+Uri: http://b/assets/qblog/style.css
+File Name: C:\Downloaded Web Sites\b\assets\qblog\style.css
+Content Type: text/css
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://b/assets/qblog/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\b\assets\qblog\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://b/avatar.svg
+File Name: C:\Downloaded Web Sites\b\avatar.svg
+Content Type: image/svg+xml
+
+Uri: http://b/comment-1.html
+File Name: C:\Downloaded Web Sites\b\comment-1.html
+Content Type: text/html
+
+Uri: http://b/comment-2.html
+File Name: C:\Downloaded Web Sites\b\comment-2.html
+Content Type: text/html
+
+Uri: http://b/comment-3.html
+File Name: C:\Downloaded Web Sites\b\comment-3.html
+Content Type: text/html
+
+Uri: http://b/comment-4.html
+File Name: C:\Downloaded Web Sites\b\comment-4.html
+Content Type: text/html
+
+Uri: http://b/comment.html
+File Name: C:\Downloaded Web Sites\b\comment.html
+Content Type: text/html
+
+Uri: http://b/favicon.ico
+File Name: C:\Downloaded Web Sites\b\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://b/i.php
+File Name: C:\Downloaded Web Sites\b\i.php.html
+Content Type: text/html
+
+Uri: http://b/images/logo.webp
+File Name: C:\Downloaded Web Sites\b\images\logo.webp
+Content Type: image/webp
+
+Uri: http://b/index-1.html
+File Name: C:\Downloaded Web Sites\b\index-1.html
+Content Type: text/html
+
+Uri: http://b/index-2.html
+File Name: C:\Downloaded Web Sites\b\index-2.html
+Content Type: text/html
+
+Uri: http://b/index.html
+File Name: C:\Downloaded Web Sites\b\index.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fblog.mboker.cn
+File Name: C:\Downloaded Web Sites\b\index.php-3.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=http:%2F%2Fwww.snbk.cn%2F
+File Name: C:\Downloaded Web Sites\b\index.php-1.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Flinji.cn
+File Name: C:\Downloaded Web Sites\b\index.php.html
+Content Type: text/html
+
+Uri: http://b/index.php?act=target&s=https:%2F%2Fwww.crant.cn
+File Name: C:\Downloaded Web Sites\b\index.php-2.html
+Content Type: text/html
+
+Uri: http://b/list-1.html
+File Name: C:\Downloaded Web Sites\b\list-1.html
+Content Type: text/html
+
+Uri: http://b/list-2.html
+File Name: C:\Downloaded Web Sites\b\list-2.html
+Content Type: text/html
+
+Uri: http://b/list-5-1.html
+File Name: C:\Downloaded Web Sites\b\list-5-1.html
+Content Type: text/html
+
+Uri: http://b/list-5-2.html
+File Name: C:\Downloaded Web Sites\b\list-5-2.html
+Content Type: text/html
+
+Uri: http://b/list-5.html
+File Name: C:\Downloaded Web Sites\b\list-5.html
+Content Type: text/html
+
+Uri: http://b/pdf/build/pdf.js
+File Name: C:\Downloaded Web Sites\b\pdf\build\pdf.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/compatibility.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\compatibility.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/debugger.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\debugger.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-next@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-next@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/findbarButton-previous@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\findbarButton-previous@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/grab.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grab.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/grabbing.cur
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\grabbing.cur
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/images/loading-icon.gif
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-icon.gif
+Content Type: image/gif
+
+Uri: http://b/pdf/web/images/loading-small.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/loading-small@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\loading-small@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-documentProperties@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-documentProperties@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-firstPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-firstPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-handTool@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-handTool@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-lastPage@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-lastPage@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCcw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCcw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/secondaryToolbarButton-rotateCw@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\secondaryToolbarButton-rotateCw@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/shadow.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\shadow.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/texture.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\texture.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-bookmark@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-bookmark@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-download@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-download@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-menuArrows@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-menuArrows@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-openFile@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-openFile@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageDown@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageDown@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-pageUp@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-pageUp@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-presentationMode@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-presentationMode@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-print@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-print@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-search@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-search@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-secondaryToolbarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-secondaryToolbarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-sidebarToggle@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-sidebarToggle@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewAttachments@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewAttachments@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline-rtl@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline-rtl@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewOutline@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewOutline@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-viewThumbnail@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-viewThumbnail@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomIn@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomIn@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/images/toolbarButton-zoomOut@2x.png
+File Name: C:\Downloaded Web Sites\b\pdf\web\images\toolbarButton-zoomOut@2x.png
+Content Type: image/png
+
+Uri: http://b/pdf/web/l10n.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\l10n.js
+Content Type: application/javascript
+
+Uri: http://b/pdf/web/locale/locale.properties
+File Name: C:\Downloaded Web Sites\b\pdf\web\locale\locale.properties
+Content Type: application/octet-stream
+
+Uri: http://b/pdf/web/viewer.css
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.css
+Content Type: text/css
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2022/10/20221025教师资格定期注册/（肖）2010-2022广东省专业技术人员继续教育证书.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-6.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.html?file=/assets/file/2022/10/20221025教师资格定期注册/2015-2022广东省专业技术人员继续教育证书.pdf
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer-5.html
+Content Type: text/html
+
+Uri: http://b/pdf/web/viewer.js
+File Name: C:\Downloaded Web Sites\b\pdf\web\viewer.js
+Content Type: application/javascript
+
+Uri: https://api.dujin.org/bing/1920.php
+File Name: C:\Downloaded Web Sites\b\bing\1920.php
+Content Type: image/jpeg
+
+Uri: https://cdn.jsdelivr.net/npm/files.photo.gallery@0.10.3/css/files.css
+File Name: C:\Downloaded Web Sites\b\npm\files.photo.gallery@0.10.3\css\files.css
+Content Type: text/css
+
